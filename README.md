@@ -8,6 +8,7 @@ Banco Pata.
 
 | Date issued | Tag | Status |
 |-------------|-----|--------|
+| 15.08.2026 | [001. Least-privilege IAM role](/tickets/BP-001-iam-lambda-least-privilege/TASK.md) | 🟡 In progress | 
 
 ## About
 
